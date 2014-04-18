@@ -1,0 +1,54 @@
+[submodule "chef/opscode-cookbooks/git"]
+	path = chef/opscode-cookbooks/git
+	url = https://github.com/opscode-cookbooks/git.git
+[submodule "chef/opscode-cookbooks/openssl"]
+	path = chef/opscode-cookbooks/openssl
+	url = https://github.com/opscode-cookbooks/openssl.git
+[submodule "chef/opscode-cookbooks/apt"]
+	path = chef/opscode-cookbooks/apt
+	url = https://github.com/opscode-cookbooks/apt.git
+[submodule "chef/opscode-cookbooks/apache2"]
+	path = chef/opscode-cookbooks/apache2
+	url = https://github.com/opscode-cookbooks/apache2.git
+[submodule "chef/opscode-cookbooks/php"]
+	path = chef/opscode-cookbooks/php
+	url = https://github.com/opscode-cookbooks/php.git
+[submodule "chef/opscode-cookbooks/build-essential"]
+	path = chef/opscode-cookbooks/build-essential
+	url = https://github.com/opscode-cookbooks/build-essential.git
+[submodule "chef/opscode-cookbooks/iptables"]
+	path = chef/opscode-cookbooks/iptables
+	url = https://github.com/opscode-cookbooks/iptables.git
+[submodule "chef/opscode-cookbooks/logrotate"]
+	path = chef/opscode-cookbooks/logrotate
+	url = https://github.com/opscode-cookbooks/logrotate.git
+[submodule "chef/opscode-cookbooks/pacman"]
+	path = chef/opscode-cookbooks/pacman
+	url = https://github.com/opscode-cookbooks/pacman.git
+[submodule "chef/opscode-cookbooks/mysql"]
+	path = chef/opscode-cookbooks/mysql
+	url = https://github.com/opscode-cookbooks/mysql.git
+[submodule "chef/opscode-cookbooks/iis"]
+	path = chef/opscode-cookbooks/iis
+	url = https://github.com/opscode-cookbooks/iis.git
+[submodule "chef/opscode-cookbooks/windows"]
+	path = chef/opscode-cookbooks/windows
+	url = https://github.com/opscode-cookbooks/windows.git
+[submodule "chef/opscode-cookbooks/dmg"]
+	path = chef/opscode-cookbooks/dmg
+	url = https://github.com/opscode-cookbooks/dmg.git
+[submodule "chef/opscode-cookbooks/xml"]
+	path = chef/opscode-cookbooks/xml
+	url = https://github.com/opscode-cookbooks/xml.git
+[submodule "chef/opscode-cookbooks/yum-epel"]
+	path = chef/opscode-cookbooks/yum-epel
+	url = https://github.com/opscode-cookbooks/yum-epel.git
+[submodule "chef/opscode-cookbooks/runit"]
+	path = chef/opscode-cookbooks/runit
+	url = https://github.com/opscode-cookbooks/runit.git
+[submodule "chef/opscode-cookbooks/yum"]
+	path = chef/opscode-cookbooks/yum
+	url = https://github.com/opscode-cookbooks/yum.git
+[submodule "chef/opscode-cookbooks/chef_handler"]
+	path = chef/opscode-cookbooks/chef_handler
+	url = https://github.com/opscode-cookbooks/chef_handler.git
