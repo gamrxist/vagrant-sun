@@ -20,6 +20,7 @@ $ vagrant plugin install vagrant-omnibus
 ```
 $ git clone https://github.com/sc-xist/vagrant-sun
 $ cd vagrant-sun
+$ git submodule init
 $ git submodule update
 ```
 * Add this line to your /etc/hosts:
