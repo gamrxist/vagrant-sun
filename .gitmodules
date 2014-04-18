@@ -52,3 +52,6 @@
 [submodule "chef/opscode-cookbooks/chef_handler"]
 	path = chef/opscode-cookbooks/chef_handler
 	url = https://github.com/opscode-cookbooks/chef_handler.git
+[submodule "www/sun-db.dev"]
+	path = www/sun-db.dev
+	url = https://github.com/jrcrittenden/sundb
